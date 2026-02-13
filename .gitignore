@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Python environment files
+*.egg-info/
+dist/
+build/
+
+# Optional: log files
+*.log
+
+# IDE/editor-specific files (optional)
+.vscode/
+.idea/
