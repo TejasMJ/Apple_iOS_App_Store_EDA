@@ -93,7 +93,7 @@ Understanding iOS app performance patterns helps developers, product managers, a
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git
+git clone https://github.com/TejasMJ/Apple_iOS_App_Store_EDA.git
 cd Google-Play-Store-App-EDA-
 ```
 
