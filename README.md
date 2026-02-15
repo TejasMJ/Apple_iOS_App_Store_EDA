@@ -1,6 +1,6 @@
-# Apple iOS App Store EDA 📱📊
+# Apple iOS App Store EDA 📊
 
-A comprehensive **Exploratory Data Analysis (EDA)** on 10,000+ Apple iOS apps using Python, Pandas, Plotly, Seaborn, and Matplotlib to uncover insights about the iOS app ecosystem, user engagement, pricing strategies, and content trends.
+A comprehensive **Exploratory Data Analysis (EDA)** on 7200 Apple iOS apps using Python, Pandas, Plotly, Seaborn, and Matplotlib to uncover insights about the iOS app ecosystem, user engagement, pricing strategies, and content trends.
 
 ---
 
@@ -68,7 +68,7 @@ Apple_iOS_App_Store_EDA/
   - **Data Manipulation:** Pandas, NumPy
   - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Environment:** Jupyter Notebook
-- **Data Source:** [Kaggle – Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+- **Data Source:** [Kaggle – Apple iOS App Store](https://github.com/TejasMJ/Apple_iOS_App_Store_EDA.git)
 
 ---
 
