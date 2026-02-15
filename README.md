@@ -7,7 +7,7 @@ A comprehensive **Exploratory Data Analysis (EDA)** on 7200 Apple iOS apps using
 ## 🌟 Features
 
 ### Core Features
-- **Data Cleaning & Preprocessing:** Handling missing values, duplicates, feature engineering (e.g., size conversion to MB), and type conversions.
+- **Data Cleaning & Preprocessing:** Handling missing values, duplicates, feature engineering (e.g size conversion to MB), and type conversions.
 - **Statistical Insights:** Summary statistics, distribution analysis, and outlier detection.
 - **Genre & Rating Analysis:** Visualizations to understand which genres perform best in terms of ratings and engagement.
 - **User Engagement Analysis:** Insights on total ratings, current version ratings, and user satisfaction trends.
